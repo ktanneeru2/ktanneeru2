@@ -50,6 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Buliding a Wordpress website using AWS and Securing - Cloud Architecture and Security
 - Garda Decision Making Model and implementing Data Governance & Data Managment
 - Hack the Box [Perfection Machine](https://www.hackthebox.com/achievement/machine/1645577/590)
+- [TryHackMe](https://tryhackme.com/p/Kiran02)
 - Securing Residential Complex Networks
 - How Blockchain might me used to block copycat apps from accessing the streaming content
 - Digital forencis analysis on Tiktok application
