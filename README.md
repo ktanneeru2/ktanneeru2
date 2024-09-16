@@ -55,6 +55,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Digital forencis analysis on Tiktok application
 - Use of Machine Learning and AI in eDiscovery & Forencis
 - Use of Machine Learning Algorithms in Detecting DDOS Attack in the organization
+- •	Received certificate of appreciation from Panasonic for reporting a vulnerability is their website.  
 
 <!--
 **ktanneeru2/ktanneeru2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
